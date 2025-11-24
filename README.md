@@ -1,5 +1,17 @@
 # Blockchain Learning Repository 🪙📚
 
+
+![Last Commit](https://img.shields.io/github/last-commit/sobhankohanpour/blockchain)
+![Issues](https://img.shields.io/github/issues/sobhankohanpour/blockchain)
+![Pull Requests](https://img.shields.io/github/issues-pr/sobhankohanpour/blockchain)
+
+![Repo Size](https://img.shields.io/github/repo-size/sobhankohanpour/blockchain)
+![Code Size](https://img.shields.io/github/languages/code-size/sobhankohanpour/blockchain)
+![Contributors](https://img.shields.io/github/contributors/sobhankohanpour/blockchain)
+![Forks](https://img.shields.io/github/forks/sobhankohanpour/blockchain)
+![GitHub Stars](https://img.shields.io/github/stars/sobhankohanpour/blockchain)
+
+
 Welcome to the **Blockchain Learning Repository**! This repository is designed as a comprehensive guide to blockchain technology, from foundational concepts to advanced decentralized applications (DApps), security, and real-world case studies. It is structured to help learners, developers, and enthusiasts navigate the exciting world of blockchain in a systematic and approachable way.
 
 ---
